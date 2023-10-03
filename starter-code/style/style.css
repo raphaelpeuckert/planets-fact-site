@@ -1,2 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@400;500&family=League+Spartan:wght@400;700&display=swap');
 
+@import url('./reset.css');
+@import url('./utility.css');
+
+:root {
+    font-size: 62.5%;
+
+    --white: #ffffff;
+    --dark-gray: #38384f;
+    --gray: #838391; 
+    --topaz: #1ec1a2;
+    --light-blue: #418ebb;
+    --blue: #2d68f0;
+    --dark-blue: #070724;
+    --purple: #6f2ed6;
+    --red: #d83a34;
+    --dark-orange: #d14c32;
+    --orange: #cd5120;
+    --yellow: #eda249;
+    
+}
+
+body {
+    min-height: 100vh;
+}

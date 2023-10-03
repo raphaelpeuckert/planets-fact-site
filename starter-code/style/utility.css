@@ -1,0 +1,54 @@
+.body-med {
+    font-size: 1.4rem;
+    line-height: 2.5rem;
+
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 400;
+}
+
+.heading-sm {
+    font-size: 1.1rem;
+    line-height: 2.5rem;
+    letter-spacing: 0.1rem;
+
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+}
+
+.heading-med {
+    font-size: 1.2rem;
+    line-height: 2.5rem;
+    letter-spacing: 0.26rem;
+
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 700;
+}
+
+.heading-lrg {
+    font-size: 4rem;
+    letter-spacing: -0.15rem;
+
+    font-family: 'Antonio', sans-serif;
+    font-weight: 500;
+}
+
+.heading-xl {
+    font-size: 8rem;
+
+    font-family: 'Antonio', sans-serif;
+    font-weight: 500;
+}
+
+.btn {
+    border: 1px solid var(--white);
+    background: transparent;
+    
+}
+
+.btn:hover {
+    background-color: #313148;
+}
+
+.btn.active {
+    background-color: var(--clr-active);
+}
